@@ -20,6 +20,8 @@ Machine Learning and Data Science methodologies
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoYildiz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
+### Leetcode Statistics
+![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/yusufyildizr?theme=gruvbox&show=graph,recent)
 
 ### 🌐 Connect with Me
 
