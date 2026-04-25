@@ -20,18 +20,18 @@ Machine Learning and Data Science methodologies
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoYildiz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
+
 ### Leetcode Statistics
 
 <div align="center">
   
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/yusufyildizr?theme=gruvbox&show=graph,recent)
+
 </div>
+
 ### 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufyildizr@gmail.com)
 
-
-
-<div align="center">
 
 </div>
