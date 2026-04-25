@@ -21,6 +21,7 @@ Machine Learning and Data Science methodologies
 
 </div>
 ### Leetcode Statistics
+
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/yusufyildizr?theme=gruvbox&show=graph,recent)
 
 ### 🌐 Connect with Me
