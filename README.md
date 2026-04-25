@@ -22,8 +22,10 @@ Machine Learning and Data Science methodologies
 </div>
 ### Leetcode Statistics
 
+<div align="center">
+  
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/yusufyildizr?theme=gruvbox&show=graph,recent)
-
+</div>
 ### 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufyildizr@gmail.com)
