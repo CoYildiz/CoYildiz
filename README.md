@@ -32,6 +32,6 @@ Machine Learning and Data Science methodologies
 ### 🌐 Connect with Me & About
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufyildizr@gmail.com)
-[![About]](https://coyildiz.github.io/about/)
+<a href="https://coyildiz.github.io/about/">About</a>
 
 </div>
